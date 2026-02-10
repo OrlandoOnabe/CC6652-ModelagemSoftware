@@ -1,3 +1,3 @@
 # Catálogo
 
-Requisitos Funcionais e Não Funcionais [[Requisitos]]
+Requisitos Funcionais e Não Funcionais [[Requisitos.md]]
