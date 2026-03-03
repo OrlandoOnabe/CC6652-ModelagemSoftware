@@ -29,4 +29,4 @@
     categoria (estudantes, maiores de 65 anos, professores)
     RNF12 - O sistema deve registrar, para cada sessão, a quantidade de ingressos vendidos e a renda obtida
 
-![Diagrama de casos de uso](DiagramaUseCase.png)
+![Diagrama de casos de uso](DiagramaUC.png)
