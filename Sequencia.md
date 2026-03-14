@@ -10,9 +10,9 @@
 
 ![UC1](diagramas-sequencia/uc3.png)
 
-## UC-04
+## UC-04/UC-08
 
-![UC1](diagramas-sequencia/uc4.png)
+![UC1](diagramas-sequencia/uc4e8.png)
 
 ## UC-05
 
@@ -25,10 +25,6 @@
 ## UC-07
 
 ![UC1](diagramas-sequencia/uc7.png)
-
-## UC-08
-
-![UC1](diagramas-sequencia/uc8.png)
 
 ## UC-09
 
